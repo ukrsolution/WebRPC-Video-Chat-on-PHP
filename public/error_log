@@ -1,0 +1,938 @@
+[25-Jan-2016 17:43:49 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Room' not found in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 16
+[25-Jan-2016 18:22:28 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Request' not found in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 23
+[25-Jan-2016 18:24:59 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 24
+[25-Jan-2016 18:26:11 UTC] PHP Fatal error:  Cannot use Illuminate\Routing\Controller as Controller because the name is already in use in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 6
+[25-Jan-2016 18:26:59 UTC] PHP Fatal error:  Cannot use Illuminate\Http\Request as Request because the name is already in use in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 5
+[25-Jan-2016 18:38:10 UTC] PHP Parse error:  syntax error, unexpected ''='' (T_CONSTANT_ENCAPSED_STRING) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 28
+[25-Jan-2016 18:48:20 UTC] PHP Parse error:  syntax error, unexpected 'use' (T_USE), expecting ',' or ';' in /home/leonids/public_html/laravel/app/Room.php on line 7
+[25-Jan-2016 23:08:15 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/leonids/public_html/laravel/storage/framework/views/22670b59a1ef905c5a278aa6e163abff2386b548.php on line 132
+[26-Jan-2016 11:26:39 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 47
+[26-Jan-2016 11:29:10 UTC] PHP Parse error:  syntax error, unexpected 'mail' (T_STRING) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 49
+[29-Jan-2016 11:04:24 UTC] PHP Parse error:  syntax error, unexpected '"\n"' (T_CONSTANT_ENCAPSED_STRING) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 53
+[29-Jan-2016 11:08:18 UTC] PHP Parse error:  syntax error, unexpected '"\n"' (T_CONSTANT_ENCAPSED_STRING) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 55
+[29-Jan-2016 11:08:48 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ']' in /home/leonids/public_html/laravel/app/Room.php on line 13
+[29-Jan-2016 11:20:14 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 48
+[02-Feb-2016 08:52:03 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 62
+[02-Feb-2016 08:52:03 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 62
+[02-Feb-2016 08:52:03 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 62
+[02-Feb-2016 08:52:03 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 62
+[02-Feb-2016 08:52:03 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 62
+[02-Feb-2016 08:52:03 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 62
+[02-Feb-2016 08:52:03 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 62
+[02-Feb-2016 08:52:03 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 62
+[02-Feb-2016 08:52:03 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 62
+[02-Feb-2016 08:52:03 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 62
+[02-Feb-2016 08:52:03 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 62
+[02-Feb-2016 08:52:03 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 62
+[02-Feb-2016 08:52:03 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 62
+[02-Feb-2016 08:52:03 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 62
+[02-Feb-2016 08:52:03 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 62
+[02-Feb-2016 08:52:04 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 62
+[02-Feb-2016 08:52:04 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 62
+[02-Feb-2016 08:52:04 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 62
+[02-Feb-2016 08:59:08 UTC] PHP Parse error:  syntax error, unexpected 'continue' (T_CONTINUE) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 62
+[09-Feb-2016 09:08:31 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 94
+[09-Feb-2016 09:08:32 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 94
+[09-Feb-2016 09:08:35 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 94
+[09-Feb-2016 09:08:36 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 94
+[09-Feb-2016 09:08:38 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 94
+[09-Feb-2016 09:08:41 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 94
+[09-Feb-2016 09:08:42 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 94
+[09-Feb-2016 09:08:47 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 94
+[09-Feb-2016 09:08:48 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 94
+[09-Feb-2016 09:08:48 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 94
+[09-Feb-2016 09:08:51 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 94
+[09-Feb-2016 09:08:52 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 94
+[09-Feb-2016 09:08:55 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 94
+[09-Feb-2016 09:08:56 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 94
+[09-Feb-2016 09:08:59 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 94
+[09-Feb-2016 09:09:00 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 94
+[09-Feb-2016 09:09:02 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 94
+[09-Feb-2016 09:09:04 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 94
+[09-Feb-2016 09:09:06 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 94
+[09-Feb-2016 09:09:08 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 94
+[09-Feb-2016 09:09:11 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 94
+[09-Feb-2016 09:09:13 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 94
+[09-Feb-2016 09:09:15 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 94
+[09-Feb-2016 09:09:17 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 94
+[09-Feb-2016 09:09:19 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 94
+[09-Feb-2016 09:09:20 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 94
+[09-Feb-2016 09:09:23 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 94
+[09-Feb-2016 09:09:25 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 94
+[09-Feb-2016 09:09:26 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 94
+[09-Feb-2016 09:09:28 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 94
+[09-Feb-2016 09:09:31 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 94
+[09-Feb-2016 09:09:32 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 94
+[09-Feb-2016 09:09:35 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 94
+[09-Feb-2016 09:09:36 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 94
+[09-Feb-2016 09:09:39 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 94
+[09-Feb-2016 09:09:41 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 94
+[09-Feb-2016 09:09:42 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 94
+[09-Feb-2016 09:09:44 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 94
+[09-Feb-2016 09:09:46 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 94
+[09-Feb-2016 09:09:49 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 94
+[10-Feb-2016 08:02:08 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Input' not found in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 113
+[10-Feb-2016 08:40:57 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Input' not found in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 114
+[10-Feb-2016 08:41:34 UTC] PHP Fatal error:  Call to a member function getSize() on null in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 114
+[10-Feb-2016 08:42:24 UTC] PHP Fatal error:  Call to a member function getSize() on null in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 114
+[10-Feb-2016 09:18:42 UTC] PHP Fatal error:  Call to a member function isValid() on null in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 116
+[10-Feb-2016 09:19:12 UTC] PHP Fatal error:  Call to a member function isValid() on null in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 116
+[10-Feb-2016 09:24:54 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:24:57 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:25:00 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:25:03 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:25:06 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:25:09 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:25:12 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:25:15 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:25:18 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:25:21 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:25:24 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:25:27 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:25:30 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:25:33 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:25:36 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:25:39 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:25:42 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:25:45 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:25:48 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:25:51 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:25:54 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:25:57 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:26:00 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:26:03 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:26:06 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:26:09 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:26:12 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:26:15 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:26:18 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:26:21 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:26:24 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:26:27 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:26:30 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:26:33 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:26:36 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:26:39 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:26:42 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:26:45 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:26:48 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:26:51 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:26:54 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:26:57 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:27:00 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:27:03 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:27:06 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:27:09 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:27:12 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:27:15 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:27:18 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:27:21 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:27:24 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:27:27 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:27:30 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:27:33 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:27:36 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:27:39 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:27:42 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:27:45 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:27:48 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:27:51 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:27:54 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:27:57 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:28:00 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:28:03 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:28:06 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:28:09 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:28:12 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:28:15 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:28:18 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:28:21 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:28:24 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:28:27 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:28:30 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:28:33 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:28:36 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:28:39 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:28:42 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:28:45 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:28:48 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:28:51 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:28:54 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:28:57 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:29:00 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:29:03 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:29:06 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:29:09 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:29:12 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:29:15 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:29:18 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:29:21 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:29:24 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:29:27 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:29:30 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:29:33 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:29:36 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:29:39 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:29:42 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:29:45 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:29:48 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:29:51 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:29:54 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:29:57 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:30:00 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:30:03 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:30:06 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:30:09 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:30:12 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:30:15 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:30:18 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:30:21 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:30:24 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:30:27 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:30:30 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:30:33 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:30:36 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:30:39 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:30:42 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:30:45 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:30:48 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:30:51 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:30:54 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:30:57 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:31:00 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:31:03 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:31:20 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:31:23 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:31:26 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 121
+[10-Feb-2016 09:31:53 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 127
+[10-Feb-2016 09:32:02 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 127
+[10-Feb-2016 09:36:40 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting variable (T_VARIABLE) or '$' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 133
+[10-Feb-2016 09:36:43 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting variable (T_VARIABLE) or '$' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 133
+[10-Feb-2016 09:36:46 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting variable (T_VARIABLE) or '$' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 133
+[10-Feb-2016 09:36:49 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 132
+[10-Feb-2016 09:36:52 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 131
+[10-Feb-2016 09:36:55 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 131
+[10-Feb-2016 09:36:58 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 131
+[10-Feb-2016 09:37:01 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 131
+[10-Feb-2016 09:37:04 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 131
+[10-Feb-2016 09:37:07 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 131
+[10-Feb-2016 09:37:10 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 131
+[10-Feb-2016 09:37:13 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 131
+[10-Feb-2016 09:37:16 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 131
+[10-Feb-2016 09:37:19 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 131
+[10-Feb-2016 09:37:22 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 131
+[10-Feb-2016 09:37:25 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 131
+[10-Feb-2016 09:37:28 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 131
+[10-Feb-2016 09:37:31 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 131
+[10-Feb-2016 09:37:34 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 131
+[10-Feb-2016 09:37:37 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 131
+[10-Feb-2016 09:37:40 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 131
+[10-Feb-2016 09:37:43 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 131
+[10-Feb-2016 09:37:46 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 131
+[10-Feb-2016 09:37:49 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 131
+[10-Feb-2016 09:37:52 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 131
+[10-Feb-2016 09:37:55 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 131
+[10-Feb-2016 09:37:58 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 131
+[10-Feb-2016 09:38:01 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 131
+[10-Feb-2016 09:38:04 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 131
+[10-Feb-2016 09:38:07 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 131
+[10-Feb-2016 09:38:10 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 131
+[10-Feb-2016 09:38:13 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 131
+[10-Feb-2016 09:38:16 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 131
+[10-Feb-2016 09:38:19 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 131
+[10-Feb-2016 09:38:22 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 131
+[10-Feb-2016 09:38:25 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 131
+[10-Feb-2016 09:38:28 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 131
+[10-Feb-2016 09:38:31 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 131
+[10-Feb-2016 09:38:34 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 131
+[10-Feb-2016 09:38:37 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 131
+[10-Feb-2016 09:38:40 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 131
+[10-Feb-2016 09:38:43 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 131
+[10-Feb-2016 09:38:46 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 131
+[10-Feb-2016 09:38:49 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 132
+[10-Feb-2016 09:38:52 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 132
+[10-Feb-2016 09:38:55 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 132
+[10-Feb-2016 09:38:58 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 132
+[10-Feb-2016 10:03:17 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 133
+[10-Feb-2016 10:03:19 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 133
+[10-Feb-2016 10:03:20 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 133
+[10-Feb-2016 10:03:22 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 133
+[10-Feb-2016 10:03:22 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 133
+[10-Feb-2016 10:03:24 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 133
+[10-Feb-2016 10:03:25 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 133
+[10-Feb-2016 10:03:27 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 133
+[10-Feb-2016 10:03:29 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 133
+[10-Feb-2016 10:03:32 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 133
+[10-Feb-2016 10:03:34 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 133
+[10-Feb-2016 10:03:36 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 133
+[10-Feb-2016 10:03:39 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 133
+[10-Feb-2016 10:03:40 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 133
+[10-Feb-2016 10:03:41 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 133
+[11-Feb-2016 03:51:33 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/leonids/public_html/laravel/storage/framework/views/8af30b17baf9dcd99ab49165858a405fb6f9a263.php on line 5
+[11-Feb-2016 03:52:01 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/leonids/public_html/laravel/storage/framework/views/8af30b17baf9dcd99ab49165858a405fb6f9a263.php on line 5
+[11-Feb-2016 03:52:09 UTC] PHP Fatal error:  Class 'HTML' not found in /home/leonids/public_html/laravel/storage/framework/views/8af30b17baf9dcd99ab49165858a405fb6f9a263.php on line 5
+[11-Feb-2016 09:10:40 UTC] PHP Fatal error:  Call to undefined function App\select() in /home/leonids/public_html/laravel/app/Room.php on line 14
+[11-Feb-2016 09:11:32 UTC] PHP Fatal error:  Call to undefined function App\select() in /home/leonids/public_html/laravel/app/Room.php on line 14
+[11-Feb-2016 09:16:15 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/storage/framework/views/8af30b17baf9dcd99ab49165858a405fb6f9a263.php on line 81
+[11-Feb-2016 09:34:46 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/leonids/public_html/laravel/storage/framework/views/8af30b17baf9dcd99ab49165858a405fb6f9a263.php on line 73
+[11-Feb-2016 09:53:40 UTC] PHP Parse error:  syntax error, unexpected ':', expecting '(' in /home/leonids/public_html/laravel/storage/framework/views/8af30b17baf9dcd99ab49165858a405fb6f9a263.php on line 127
+[11-Feb-2016 09:53:58 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ':' in /home/leonids/public_html/laravel/storage/framework/views/8af30b17baf9dcd99ab49165858a405fb6f9a263.php on line 127
+[11-Feb-2016 09:54:18 UTC] PHP Parse error:  syntax error, unexpected ':', expecting '(' in /home/leonids/public_html/laravel/storage/framework/views/8af30b17baf9dcd99ab49165858a405fb6f9a263.php on line 127
+[11-Feb-2016 09:54:55 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/leonids/public_html/laravel/storage/framework/views/8af30b17baf9dcd99ab49165858a405fb6f9a263.php on line 130
+[11-Feb-2016 12:27:57 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 34
+[11-Feb-2016 12:38:32 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 18
+[11-Feb-2016 12:38:37 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 18
+[11-Feb-2016 12:38:42 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 18
+[11-Feb-2016 12:38:47 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 18
+[11-Feb-2016 12:38:52 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 18
+[11-Feb-2016 12:38:57 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 18
+[11-Feb-2016 12:39:02 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 18
+[11-Feb-2016 12:39:07 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 18
+[11-Feb-2016 12:39:12 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 18
+[11-Feb-2016 12:39:17 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 18
+[11-Feb-2016 12:39:22 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 18
+[11-Feb-2016 12:39:27 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 18
+[11-Feb-2016 12:39:32 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 18
+[11-Feb-2016 12:39:37 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 18
+[11-Feb-2016 12:39:42 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 18
+[11-Feb-2016 12:39:47 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 18
+[11-Feb-2016 12:39:52 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 18
+[11-Feb-2016 12:39:57 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 18
+[11-Feb-2016 12:40:02 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 18
+[11-Feb-2016 12:40:07 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 18
+[11-Feb-2016 12:40:12 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 18
+[11-Feb-2016 12:40:17 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 18
+[11-Feb-2016 12:40:22 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 18
+[11-Feb-2016 12:40:27 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 18
+[11-Feb-2016 12:40:32 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 18
+[11-Feb-2016 12:40:37 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 18
+[11-Feb-2016 12:40:42 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 18
+[11-Feb-2016 12:40:47 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 18
+[11-Feb-2016 12:40:52 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 18
+[11-Feb-2016 12:40:57 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 18
+[11-Feb-2016 12:41:02 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 18
+[11-Feb-2016 12:41:06 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 18
+[11-Feb-2016 12:41:12 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 18
+[11-Feb-2016 12:41:17 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 18
+[11-Feb-2016 12:41:22 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 18
+[11-Feb-2016 12:41:27 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 18
+[11-Feb-2016 12:41:32 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 18
+[11-Feb-2016 12:41:37 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 18
+[11-Feb-2016 12:41:42 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 18
+[11-Feb-2016 12:41:47 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 18
+[11-Feb-2016 12:41:52 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 18
+[11-Feb-2016 12:41:57 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 18
+[11-Feb-2016 13:05:36 UTC] PHP Parse error:  syntax error, unexpected '$mailstatus' (T_VARIABLE) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 160
+[11-Feb-2016 13:10:22 UTC] PHP Parse error:  syntax error, unexpected '$mailstatus' (T_VARIABLE) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 160
+[11-Feb-2016 13:10:27 UTC] PHP Parse error:  syntax error, unexpected '$mailstatus' (T_VARIABLE) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 160
+[11-Feb-2016 13:10:32 UTC] PHP Parse error:  syntax error, unexpected '$mailstatus' (T_VARIABLE) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 160
+[11-Feb-2016 13:10:37 UTC] PHP Parse error:  syntax error, unexpected '$mailstatus' (T_VARIABLE) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 160
+[11-Feb-2016 13:10:42 UTC] PHP Parse error:  syntax error, unexpected '$mailstatus' (T_VARIABLE) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 160
+[11-Feb-2016 13:10:47 UTC] PHP Parse error:  syntax error, unexpected '$mailstatus' (T_VARIABLE) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 160
+[11-Feb-2016 13:10:52 UTC] PHP Parse error:  syntax error, unexpected '$mailstatus' (T_VARIABLE) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 160
+[11-Feb-2016 13:10:57 UTC] PHP Parse error:  syntax error, unexpected '$mailstatus' (T_VARIABLE) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 160
+[11-Feb-2016 13:11:02 UTC] PHP Parse error:  syntax error, unexpected '$mailstatus' (T_VARIABLE) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 160
+[11-Feb-2016 13:11:07 UTC] PHP Parse error:  syntax error, unexpected '$mailstatus' (T_VARIABLE) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 160
+[11-Feb-2016 13:11:12 UTC] PHP Parse error:  syntax error, unexpected '$mailstatus' (T_VARIABLE) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 160
+[11-Feb-2016 13:11:17 UTC] PHP Parse error:  syntax error, unexpected '$mailstatus' (T_VARIABLE) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 160
+[11-Feb-2016 13:11:22 UTC] PHP Parse error:  syntax error, unexpected '$mailstatus' (T_VARIABLE) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 160
+[11-Feb-2016 13:11:27 UTC] PHP Parse error:  syntax error, unexpected '$mailstatus' (T_VARIABLE) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 160
+[11-Feb-2016 13:11:32 UTC] PHP Parse error:  syntax error, unexpected '$mailstatus' (T_VARIABLE) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 160
+[11-Feb-2016 13:11:37 UTC] PHP Parse error:  syntax error, unexpected '$mailstatus' (T_VARIABLE) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 160
+[11-Feb-2016 13:11:42 UTC] PHP Parse error:  syntax error, unexpected '$mailstatus' (T_VARIABLE) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 160
+[11-Feb-2016 13:11:47 UTC] PHP Parse error:  syntax error, unexpected '$mailstatus' (T_VARIABLE) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 160
+[11-Feb-2016 13:11:52 UTC] PHP Parse error:  syntax error, unexpected '$mailstatus' (T_VARIABLE) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 160
+[11-Feb-2016 13:11:57 UTC] PHP Parse error:  syntax error, unexpected '$mailstatus' (T_VARIABLE) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 160
+[11-Feb-2016 13:12:02 UTC] PHP Parse error:  syntax error, unexpected '$mailstatus' (T_VARIABLE) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 160
+[11-Feb-2016 13:12:07 UTC] PHP Parse error:  syntax error, unexpected '$mailstatus' (T_VARIABLE) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 160
+[11-Feb-2016 13:12:12 UTC] PHP Parse error:  syntax error, unexpected '$mailstatus' (T_VARIABLE) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 160
+[11-Feb-2016 13:12:17 UTC] PHP Parse error:  syntax error, unexpected '$mailstatus' (T_VARIABLE) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 160
+[11-Feb-2016 13:12:22 UTC] PHP Parse error:  syntax error, unexpected '$mailstatus' (T_VARIABLE) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 160
+[11-Feb-2016 13:12:27 UTC] PHP Parse error:  syntax error, unexpected '$mailstatus' (T_VARIABLE) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 160
+[11-Feb-2016 13:12:32 UTC] PHP Parse error:  syntax error, unexpected '$mailstatus' (T_VARIABLE) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 160
+[11-Feb-2016 13:12:37 UTC] PHP Parse error:  syntax error, unexpected '$mailstatus' (T_VARIABLE) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 160
+[11-Feb-2016 13:12:42 UTC] PHP Parse error:  syntax error, unexpected '$mailstatus' (T_VARIABLE) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 160
+[11-Feb-2016 13:12:47 UTC] PHP Parse error:  syntax error, unexpected '$mailstatus' (T_VARIABLE) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 160
+[11-Feb-2016 13:12:52 UTC] PHP Parse error:  syntax error, unexpected '$mailstatus' (T_VARIABLE) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 160
+[11-Feb-2016 13:12:57 UTC] PHP Parse error:  syntax error, unexpected '$mailstatus' (T_VARIABLE) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 160
+[11-Feb-2016 13:13:02 UTC] PHP Parse error:  syntax error, unexpected '$mailstatus' (T_VARIABLE) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 160
+[11-Feb-2016 13:13:07 UTC] PHP Parse error:  syntax error, unexpected '$mailstatus' (T_VARIABLE) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 160
+[11-Feb-2016 13:13:12 UTC] PHP Parse error:  syntax error, unexpected '$mailstatus' (T_VARIABLE) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 160
+[11-Feb-2016 13:13:17 UTC] PHP Parse error:  syntax error, unexpected '$mailstatus' (T_VARIABLE) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 160
+[11-Feb-2016 13:13:22 UTC] PHP Parse error:  syntax error, unexpected '$mailstatus' (T_VARIABLE) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 160
+[11-Feb-2016 13:13:27 UTC] PHP Parse error:  syntax error, unexpected '$mailstatus' (T_VARIABLE) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 160
+[11-Feb-2016 13:13:32 UTC] PHP Parse error:  syntax error, unexpected '$mailstatus' (T_VARIABLE) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 160
+[11-Feb-2016 13:13:37 UTC] PHP Parse error:  syntax error, unexpected '$mailstatus' (T_VARIABLE) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 160
+[11-Feb-2016 13:13:42 UTC] PHP Parse error:  syntax error, unexpected '$mailstatus' (T_VARIABLE) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 160
+[11-Feb-2016 13:13:47 UTC] PHP Parse error:  syntax error, unexpected '$mailstatus' (T_VARIABLE) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 160
+[11-Feb-2016 13:13:52 UTC] PHP Parse error:  syntax error, unexpected '$mailstatus' (T_VARIABLE) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 160
+[11-Feb-2016 13:13:57 UTC] PHP Parse error:  syntax error, unexpected '$mailstatus' (T_VARIABLE) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 160
+[11-Feb-2016 13:14:02 UTC] PHP Parse error:  syntax error, unexpected '$mailstatus' (T_VARIABLE) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 160
+[11-Feb-2016 13:14:07 UTC] PHP Parse error:  syntax error, unexpected '$mailstatus' (T_VARIABLE) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 160
+[11-Feb-2016 13:14:12 UTC] PHP Parse error:  syntax error, unexpected '$mailstatus' (T_VARIABLE) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 160
+[11-Feb-2016 13:14:17 UTC] PHP Parse error:  syntax error, unexpected '$mailstatus' (T_VARIABLE) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 160
+[11-Feb-2016 13:14:22 UTC] PHP Parse error:  syntax error, unexpected '$mailstatus' (T_VARIABLE) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 160
+[11-Feb-2016 13:14:23 UTC] PHP Parse error:  syntax error, unexpected '$mailstatus' (T_VARIABLE) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 160
+[11-Feb-2016 13:47:24 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/leonids/public_html/laravel/storage/framework/views/22670b59a1ef905c5a278aa6e163abff2386b548.php on line 150
+[11-Feb-2016 14:21:12 UTC] PHP Parse error:  syntax error, unexpected 'exit' (T_EXIT) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 133
+[11-Feb-2016 14:21:14 UTC] PHP Parse error:  syntax error, unexpected 'exit' (T_EXIT) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 133
+[11-Feb-2016 14:21:16 UTC] PHP Parse error:  syntax error, unexpected 'exit' (T_EXIT) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 133
+[11-Feb-2016 14:22:21 UTC] PHP Parse error:  syntax error, unexpected 'exit' (T_EXIT), expecting ',' or ';' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 134
+[11-Feb-2016 14:33:51 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 138
+[11-Feb-2016 14:33:53 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 138
+[11-Feb-2016 14:33:55 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 138
+[11-Feb-2016 14:33:57 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 138
+[11-Feb-2016 14:33:58 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 138
+[11-Feb-2016 14:33:59 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 138
+[11-Feb-2016 14:34:00 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 138
+[11-Feb-2016 14:34:02 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 138
+[11-Feb-2016 14:34:03 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 138
+[11-Feb-2016 14:34:04 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 138
+[11-Feb-2016 14:34:05 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 138
+[11-Feb-2016 14:34:07 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 138
+[11-Feb-2016 14:34:07 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 138
+[11-Feb-2016 14:34:09 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 138
+[11-Feb-2016 14:34:09 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 138
+[11-Feb-2016 14:34:10 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 138
+[11-Feb-2016 14:34:12 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 138
+[11-Feb-2016 14:34:15 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 138
+[11-Feb-2016 14:34:17 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 138
+[11-Feb-2016 14:34:19 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 138
+[11-Feb-2016 14:34:22 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 138
+[11-Feb-2016 14:34:24 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 138
+[11-Feb-2016 14:43:49 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 137
+[11-Feb-2016 14:43:52 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 137
+[11-Feb-2016 14:43:54 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 137
+[11-Feb-2016 14:43:56 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 137
+[11-Feb-2016 14:43:59 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 137
+[11-Feb-2016 14:44:01 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 137
+[11-Feb-2016 14:44:04 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 137
+[11-Feb-2016 14:44:06 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 137
+[11-Feb-2016 14:44:09 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 137
+[11-Feb-2016 14:44:11 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 137
+[11-Feb-2016 14:44:14 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 137
+[11-Feb-2016 14:44:16 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 137
+[11-Feb-2016 14:44:19 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 137
+[11-Feb-2016 14:44:21 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 137
+[11-Feb-2016 14:44:24 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 137
+[11-Feb-2016 14:44:26 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 137
+[11-Feb-2016 14:44:29 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 137
+[11-Feb-2016 15:01:09 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 131
+[11-Feb-2016 15:01:12 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 131
+[11-Feb-2016 15:01:15 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 131
+[11-Feb-2016 15:01:18 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 131
+[11-Feb-2016 15:01:21 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 131
+[11-Feb-2016 15:01:24 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 131
+[11-Feb-2016 15:01:28 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 131
+[11-Feb-2016 15:01:30 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 131
+[11-Feb-2016 15:01:34 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 131
+[11-Feb-2016 15:01:36 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 131
+[11-Feb-2016 15:01:39 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 131
+[11-Feb-2016 15:01:42 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 131
+[11-Feb-2016 15:01:45 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 131
+[11-Feb-2016 15:01:48 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 131
+[11-Feb-2016 15:01:52 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 131
+[11-Feb-2016 15:01:54 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 131
+[11-Feb-2016 15:01:58 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 131
+[11-Feb-2016 15:02:00 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 132
+[11-Feb-2016 15:02:03 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 132
+[11-Feb-2016 15:02:06 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 132
+[11-Feb-2016 15:02:09 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 132
+[11-Feb-2016 15:02:12 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 132
+[11-Feb-2016 15:02:15 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 132
+[11-Feb-2016 15:02:18 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 132
+[11-Feb-2016 15:02:21 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 132
+[11-Feb-2016 15:02:24 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 132
+[11-Feb-2016 15:02:27 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 132
+[11-Feb-2016 15:02:30 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 132
+[11-Feb-2016 15:02:33 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 131
+[11-Feb-2016 15:02:36 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 131
+[11-Feb-2016 15:02:39 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 131
+[11-Feb-2016 15:02:42 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 131
+[11-Feb-2016 15:02:45 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 131
+[11-Feb-2016 15:02:48 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 131
+[11-Feb-2016 15:02:52 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 131
+[11-Feb-2016 15:02:54 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 131
+[11-Feb-2016 19:56:17 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/leonids/public_html/laravel/storage/framework/views/8af30b17baf9dcd99ab49165858a405fb6f9a263.php on line 114
+[11-Feb-2016 19:58:24 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ':' in /home/leonids/public_html/laravel/storage/framework/views/8af30b17baf9dcd99ab49165858a405fb6f9a263.php on line 111
+[11-Feb-2016 19:58:49 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/leonids/public_html/laravel/storage/framework/views/8af30b17baf9dcd99ab49165858a405fb6f9a263.php on line 114
+[12-Feb-2016 05:16:18 UTC] PHP Fatal error:  Call to a member function getClientOriginalName() on null in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 45
+[12-Feb-2016 05:16:55 UTC] PHP Fatal error:  Call to a member function getClientOriginalName() on null in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 45
+[12-Feb-2016 07:15:46 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/leonids/public_html/laravel/storage/framework/views/8af30b17baf9dcd99ab49165858a405fb6f9a263.php on line 98
+[12-Feb-2016 07:42:32 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ':' in /home/leonids/public_html/laravel/storage/framework/views/8af30b17baf9dcd99ab49165858a405fb6f9a263.php on line 100
+[12-Feb-2016 12:55:07 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/leonids/public_html/laravel/storage/framework/views/8af30b17baf9dcd99ab49165858a405fb6f9a263.php on line 70
+[12-Feb-2016 13:04:29 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/leonids/public_html/laravel/storage/framework/views/8af30b17baf9dcd99ab49165858a405fb6f9a263.php on line 2
+[12-Feb-2016 13:23:34 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'Undefined variable: message' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php:60
+Stack trace:
+#0 /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php(60): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/leonids/p...', 60, Array)
+#1 [internal function]: App\Http\Controllers\RoomController->saveOptions()
+#2 /home/leonids/public_html/laravel/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(76): call_user_func_array(Array, Array)
+#3 /home/leonids/public_html/laravel/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(146): Illuminate\Routing\Controller->callAction('saveOptions', Array)
+#4 /home/leonids/public_html/laravel/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(94): Illuminate\Routing\ControllerDispatcher->call(Object(App\Http\Controllers\RoomController), Object(Illuminate\Routing\Route), 'saveOptions')
+ in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 60
+[12-Feb-2016 13:23:34 UTC] PHP Fatal error:  Cannot access empty property in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 60
+[12-Feb-2016 13:34:48 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Session' not found in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 75
+[12-Feb-2016 13:35:22 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Session' not found in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 76
+[12-Feb-2016 14:33:26 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 56
+[12-Feb-2016 14:33:26 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 56
+[12-Feb-2016 14:33:28 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 56
+[12-Feb-2016 14:33:28 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 56
+[12-Feb-2016 14:33:31 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 56
+[12-Feb-2016 14:33:31 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 56
+[12-Feb-2016 14:33:33 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 56
+[12-Feb-2016 14:33:33 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 56
+[12-Feb-2016 14:33:35 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 56
+[12-Feb-2016 14:33:36 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 56
+[12-Feb-2016 14:33:38 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 56
+[12-Feb-2016 14:33:38 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 56
+[12-Feb-2016 14:33:40 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 56
+[12-Feb-2016 14:33:40 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 56
+[12-Feb-2016 14:33:43 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 56
+[12-Feb-2016 14:33:43 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 56
+[12-Feb-2016 14:33:45 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 56
+[12-Feb-2016 14:33:45 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 56
+[12-Feb-2016 14:33:47 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 56
+[12-Feb-2016 14:33:48 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 56
+[12-Feb-2016 14:33:50 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 56
+[12-Feb-2016 14:33:50 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 56
+[12-Feb-2016 14:33:52 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 56
+[12-Feb-2016 14:33:52 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 56
+[16-Feb-2016 07:46:50 UTC] PHP Fatal error:  Class 'App\Room' not found in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 193
+[16-Feb-2016 07:47:07 UTC] PHP Parse error:  syntax error, unexpected 'from' (T_STRING) in /home/leonids/public_html/laravel/app/Room.php on line 46
+[16-Feb-2016 07:47:07 UTC] PHP Parse error:  syntax error, unexpected 'from' (T_STRING) in /home/leonids/public_html/laravel/app/Room.php on line 46
+[16-Feb-2016 07:56:54 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ':' in /home/leonids/public_html/laravel/storage/framework/views/22670b59a1ef905c5a278aa6e163abff2386b548.php on line 48
+[16-Feb-2016 07:57:16 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/leonids/public_html/laravel/storage/framework/views/22670b59a1ef905c5a278aa6e163abff2386b548.php on line 50
+[17-Feb-2016 14:44:23 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 126
+[17-Feb-2016 14:44:24 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 126
+[17-Feb-2016 14:44:24 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 126
+[17-Feb-2016 14:44:27 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 126
+[17-Feb-2016 15:01:54 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 103
+[17-Feb-2016 15:02:54 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 106
+[17-Feb-2016 15:02:55 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 106
+[17-Feb-2016 15:02:55 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 106
+[17-Feb-2016 15:02:56 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 106
+[17-Feb-2016 15:02:56 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 106
+[17-Feb-2016 15:02:59 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 106
+[17-Feb-2016 15:02:59 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 106
+[17-Feb-2016 15:02:59 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 106
+[17-Feb-2016 15:03:00 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 106
+[17-Feb-2016 15:03:04 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 106
+[17-Feb-2016 15:03:06 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 106
+[17-Feb-2016 15:03:07 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 106
+[17-Feb-2016 15:03:08 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 106
+[17-Feb-2016 15:03:08 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 106
+[17-Feb-2016 15:03:09 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 106
+[17-Feb-2016 15:03:10 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 106
+[17-Feb-2016 16:29:41 UTC] PHP Fatal error:  Call to undefined method Illuminate\Http\Request::roomid() in /home/leonids/public_html/laravel/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 215
+[17-Feb-2016 16:29:51 UTC] PHP Fatal error:  Call to undefined method Illuminate\Http\Request::roomid() in /home/leonids/public_html/laravel/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 215
+[17-Feb-2016 16:31:15 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 218
+[17-Feb-2016 16:32:32 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 218
+[17-Feb-2016 16:33:34 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 218
+[17-Feb-2016 16:41:10 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 218
+[17-Feb-2016 16:42:12 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 218
+[17-Feb-2016 16:53:48 UTC] PHP Fatal error:  Class 'App\Room' not found in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 201
+[19-Feb-2016 13:26:15 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 104
+[19-Feb-2016 13:33:15 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 124
+[22-Feb-2016 07:24:55 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 77
+[22-Feb-2016 07:24:56 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 77
+[22-Feb-2016 07:25:39 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/leonids/public_html/laravel/storage/framework/views/8af30b17baf9dcd99ab49165858a405fb6f9a263.php on line 145
+[22-Feb-2016 07:36:37 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 37
+[24-Feb-2016 13:33:15 UTC] PHP Fatal error:  Call to undefined function App\Http\Controllers\showRoom() in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 126
+[25-Feb-2016 12:43:23 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 66
+[25-Feb-2016 12:43:26 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 66
+[25-Feb-2016 12:46:21 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 66
+[25-Feb-2016 13:45:19 UTC] PHP Fatal error:  Class 'App\Room' not found in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 201
+[25-Feb-2016 14:05:43 UTC] PHP Fatal error:  Class 'App\Room' not found in /home/leonids/public_html/laravel/app/Http/Controllers/RoomController.php on line 206
+[26-Feb-2016 10:03:32 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/leonids/public_html/laravel/storage/framework/views/991b6ec9a7476bb700bea439c88674a9e4e415ed.php on line 158
+[02-Mar-2016 16:38:26 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'require(/home/leonids/public_html/laravel/app/Http/routes.php): failed to open stream: No such file or directory' in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php:41
+Stack trace:
+#0 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(41): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/l...', '/home/leonids/p...', 41, Array)
+#1 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(41): App\Providers\RouteServiceProvider::App\Providers\{closure}()
+#2 [internal function]: App\Providers\RouteServiceProvider->App\Providers\{closure}(Object(Illuminate\Routing\Router))
+#3 /home/leonids/public_html/laravel/vendor/laravel/framework/src/Illuminate/Routing/Router.php(377): call_user_func(Object(Closure), Object(Illuminate\Routing\Router))
+#4 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(42): Illuminate\Routing\Router->group(Array, Object(Closure) in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php on line 41
+[02-Mar-2016 16:38:27 UTC] PHP Fatal error:  App\Providers\RouteServiceProvider::App\Providers\{closure}(): Failed opening required '/home/leonids/public_html/laravel/app/Http/routes.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php on line 41
+[02-Mar-2016 16:38:30 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'require(/home/leonids/public_html/laravel/app/Http/routes.php): failed to open stream: No such file or directory' in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php:41
+Stack trace:
+#0 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(41): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/l...', '/home/leonids/p...', 41, Array)
+#1 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(41): App\Providers\RouteServiceProvider::App\Providers\{closure}()
+#2 [internal function]: App\Providers\RouteServiceProvider->App\Providers\{closure}(Object(Illuminate\Routing\Router))
+#3 /home/leonids/public_html/laravel/vendor/laravel/framework/src/Illuminate/Routing/Router.php(377): call_user_func(Object(Closure), Object(Illuminate\Routing\Router))
+#4 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(42): Illuminate\Routing\Router->group(Array, Object(Closure) in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php on line 41
+[02-Mar-2016 16:38:30 UTC] PHP Fatal error:  App\Providers\RouteServiceProvider::App\Providers\{closure}(): Failed opening required '/home/leonids/public_html/laravel/app/Http/routes.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php on line 41
+[02-Mar-2016 16:38:33 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'require(/home/leonids/public_html/laravel/app/Http/routes.php): failed to open stream: No such file or directory' in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php:41
+Stack trace:
+#0 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(41): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/l...', '/home/leonids/p...', 41, Array)
+#1 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(41): App\Providers\RouteServiceProvider::App\Providers\{closure}()
+#2 [internal function]: App\Providers\RouteServiceProvider->App\Providers\{closure}(Object(Illuminate\Routing\Router))
+#3 /home/leonids/public_html/laravel/vendor/laravel/framework/src/Illuminate/Routing/Router.php(377): call_user_func(Object(Closure), Object(Illuminate\Routing\Router))
+#4 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(42): Illuminate\Routing\Router->group(Array, Object(Closure) in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php on line 41
+[02-Mar-2016 16:38:33 UTC] PHP Fatal error:  App\Providers\RouteServiceProvider::App\Providers\{closure}(): Failed opening required '/home/leonids/public_html/laravel/app/Http/routes.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php on line 41
+[02-Mar-2016 16:38:36 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'require(/home/leonids/public_html/laravel/app/Http/routes.php): failed to open stream: No such file or directory' in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php:41
+Stack trace:
+#0 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(41): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/l...', '/home/leonids/p...', 41, Array)
+#1 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(41): App\Providers\RouteServiceProvider::App\Providers\{closure}()
+#2 [internal function]: App\Providers\RouteServiceProvider->App\Providers\{closure}(Object(Illuminate\Routing\Router))
+#3 /home/leonids/public_html/laravel/vendor/laravel/framework/src/Illuminate/Routing/Router.php(377): call_user_func(Object(Closure), Object(Illuminate\Routing\Router))
+#4 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(42): Illuminate\Routing\Router->group(Array, Object(Closure) in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php on line 41
+[02-Mar-2016 16:38:36 UTC] PHP Fatal error:  App\Providers\RouteServiceProvider::App\Providers\{closure}(): Failed opening required '/home/leonids/public_html/laravel/app/Http/routes.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php on line 41
+[02-Mar-2016 16:38:39 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'require(/home/leonids/public_html/laravel/app/Http/routes.php): failed to open stream: No such file or directory' in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php:41
+Stack trace:
+#0 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(41): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/l...', '/home/leonids/p...', 41, Array)
+#1 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(41): App\Providers\RouteServiceProvider::App\Providers\{closure}()
+#2 [internal function]: App\Providers\RouteServiceProvider->App\Providers\{closure}(Object(Illuminate\Routing\Router))
+#3 /home/leonids/public_html/laravel/vendor/laravel/framework/src/Illuminate/Routing/Router.php(377): call_user_func(Object(Closure), Object(Illuminate\Routing\Router))
+#4 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(42): Illuminate\Routing\Router->group(Array, Object(Closure) in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php on line 41
+[02-Mar-2016 16:38:39 UTC] PHP Fatal error:  App\Providers\RouteServiceProvider::App\Providers\{closure}(): Failed opening required '/home/leonids/public_html/laravel/app/Http/routes.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php on line 41
+[02-Mar-2016 16:38:42 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'require(/home/leonids/public_html/laravel/app/Http/routes.php): failed to open stream: No such file or directory' in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php:41
+Stack trace:
+#0 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(41): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/l...', '/home/leonids/p...', 41, Array)
+#1 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(41): App\Providers\RouteServiceProvider::App\Providers\{closure}()
+#2 [internal function]: App\Providers\RouteServiceProvider->App\Providers\{closure}(Object(Illuminate\Routing\Router))
+#3 /home/leonids/public_html/laravel/vendor/laravel/framework/src/Illuminate/Routing/Router.php(377): call_user_func(Object(Closure), Object(Illuminate\Routing\Router))
+#4 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(42): Illuminate\Routing\Router->group(Array, Object(Closure) in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php on line 41
+[02-Mar-2016 16:38:42 UTC] PHP Fatal error:  App\Providers\RouteServiceProvider::App\Providers\{closure}(): Failed opening required '/home/leonids/public_html/laravel/app/Http/routes.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php on line 41
+[02-Mar-2016 16:38:45 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'require(/home/leonids/public_html/laravel/app/Http/routes.php): failed to open stream: No such file or directory' in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php:41
+Stack trace:
+#0 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(41): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/l...', '/home/leonids/p...', 41, Array)
+#1 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(41): App\Providers\RouteServiceProvider::App\Providers\{closure}()
+#2 [internal function]: App\Providers\RouteServiceProvider->App\Providers\{closure}(Object(Illuminate\Routing\Router))
+#3 /home/leonids/public_html/laravel/vendor/laravel/framework/src/Illuminate/Routing/Router.php(377): call_user_func(Object(Closure), Object(Illuminate\Routing\Router))
+#4 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(42): Illuminate\Routing\Router->group(Array, Object(Closure) in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php on line 41
+[02-Mar-2016 16:38:45 UTC] PHP Fatal error:  App\Providers\RouteServiceProvider::App\Providers\{closure}(): Failed opening required '/home/leonids/public_html/laravel/app/Http/routes.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php on line 41
+[02-Mar-2016 16:38:48 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'require(/home/leonids/public_html/laravel/app/Http/routes.php): failed to open stream: No such file or directory' in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php:41
+Stack trace:
+#0 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(41): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/l...', '/home/leonids/p...', 41, Array)
+#1 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(41): App\Providers\RouteServiceProvider::App\Providers\{closure}()
+#2 [internal function]: App\Providers\RouteServiceProvider->App\Providers\{closure}(Object(Illuminate\Routing\Router))
+#3 /home/leonids/public_html/laravel/vendor/laravel/framework/src/Illuminate/Routing/Router.php(377): call_user_func(Object(Closure), Object(Illuminate\Routing\Router))
+#4 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(42): Illuminate\Routing\Router->group(Array, Object(Closure) in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php on line 41
+[02-Mar-2016 16:38:48 UTC] PHP Fatal error:  App\Providers\RouteServiceProvider::App\Providers\{closure}(): Failed opening required '/home/leonids/public_html/laravel/app/Http/routes.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php on line 41
+[02-Mar-2016 16:38:51 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'require(/home/leonids/public_html/laravel/app/Http/routes.php): failed to open stream: No such file or directory' in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php:41
+Stack trace:
+#0 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(41): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/l...', '/home/leonids/p...', 41, Array)
+#1 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(41): App\Providers\RouteServiceProvider::App\Providers\{closure}()
+#2 [internal function]: App\Providers\RouteServiceProvider->App\Providers\{closure}(Object(Illuminate\Routing\Router))
+#3 /home/leonids/public_html/laravel/vendor/laravel/framework/src/Illuminate/Routing/Router.php(377): call_user_func(Object(Closure), Object(Illuminate\Routing\Router))
+#4 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(42): Illuminate\Routing\Router->group(Array, Object(Closure) in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php on line 41
+[02-Mar-2016 16:38:51 UTC] PHP Fatal error:  App\Providers\RouteServiceProvider::App\Providers\{closure}(): Failed opening required '/home/leonids/public_html/laravel/app/Http/routes.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php on line 41
+[02-Mar-2016 16:38:54 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'require(/home/leonids/public_html/laravel/app/Http/routes.php): failed to open stream: No such file or directory' in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php:41
+Stack trace:
+#0 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(41): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/l...', '/home/leonids/p...', 41, Array)
+#1 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(41): App\Providers\RouteServiceProvider::App\Providers\{closure}()
+#2 [internal function]: App\Providers\RouteServiceProvider->App\Providers\{closure}(Object(Illuminate\Routing\Router))
+#3 /home/leonids/public_html/laravel/vendor/laravel/framework/src/Illuminate/Routing/Router.php(377): call_user_func(Object(Closure), Object(Illuminate\Routing\Router))
+#4 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(42): Illuminate\Routing\Router->group(Array, Object(Closure) in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php on line 41
+[02-Mar-2016 16:38:54 UTC] PHP Fatal error:  App\Providers\RouteServiceProvider::App\Providers\{closure}(): Failed opening required '/home/leonids/public_html/laravel/app/Http/routes.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php on line 41
+[02-Mar-2016 16:38:57 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'require(/home/leonids/public_html/laravel/app/Http/routes.php): failed to open stream: No such file or directory' in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php:41
+Stack trace:
+#0 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(41): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/l...', '/home/leonids/p...', 41, Array)
+#1 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(41): App\Providers\RouteServiceProvider::App\Providers\{closure}()
+#2 [internal function]: App\Providers\RouteServiceProvider->App\Providers\{closure}(Object(Illuminate\Routing\Router))
+#3 /home/leonids/public_html/laravel/vendor/laravel/framework/src/Illuminate/Routing/Router.php(377): call_user_func(Object(Closure), Object(Illuminate\Routing\Router))
+#4 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(42): Illuminate\Routing\Router->group(Array, Object(Closure) in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php on line 41
+[02-Mar-2016 16:38:57 UTC] PHP Fatal error:  App\Providers\RouteServiceProvider::App\Providers\{closure}(): Failed opening required '/home/leonids/public_html/laravel/app/Http/routes.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php on line 41
+[02-Mar-2016 16:39:00 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'require(/home/leonids/public_html/laravel/app/Http/routes.php): failed to open stream: No such file or directory' in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php:41
+Stack trace:
+#0 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(41): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/l...', '/home/leonids/p...', 41, Array)
+#1 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(41): App\Providers\RouteServiceProvider::App\Providers\{closure}()
+#2 [internal function]: App\Providers\RouteServiceProvider->App\Providers\{closure}(Object(Illuminate\Routing\Router))
+#3 /home/leonids/public_html/laravel/vendor/laravel/framework/src/Illuminate/Routing/Router.php(377): call_user_func(Object(Closure), Object(Illuminate\Routing\Router))
+#4 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(42): Illuminate\Routing\Router->group(Array, Object(Closure) in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php on line 41
+[02-Mar-2016 16:39:00 UTC] PHP Fatal error:  App\Providers\RouteServiceProvider::App\Providers\{closure}(): Failed opening required '/home/leonids/public_html/laravel/app/Http/routes.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php on line 41
+[02-Mar-2016 16:39:03 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'require(/home/leonids/public_html/laravel/app/Http/routes.php): failed to open stream: No such file or directory' in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php:41
+Stack trace:
+#0 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(41): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/l...', '/home/leonids/p...', 41, Array)
+#1 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(41): App\Providers\RouteServiceProvider::App\Providers\{closure}()
+#2 [internal function]: App\Providers\RouteServiceProvider->App\Providers\{closure}(Object(Illuminate\Routing\Router))
+#3 /home/leonids/public_html/laravel/vendor/laravel/framework/src/Illuminate/Routing/Router.php(377): call_user_func(Object(Closure), Object(Illuminate\Routing\Router))
+#4 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(42): Illuminate\Routing\Router->group(Array, Object(Closure) in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php on line 41
+[02-Mar-2016 16:39:03 UTC] PHP Fatal error:  App\Providers\RouteServiceProvider::App\Providers\{closure}(): Failed opening required '/home/leonids/public_html/laravel/app/Http/routes.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php on line 41
+[02-Mar-2016 16:39:06 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'require(/home/leonids/public_html/laravel/app/Http/routes.php): failed to open stream: No such file or directory' in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php:41
+Stack trace:
+#0 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(41): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/l...', '/home/leonids/p...', 41, Array)
+#1 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(41): App\Providers\RouteServiceProvider::App\Providers\{closure}()
+#2 [internal function]: App\Providers\RouteServiceProvider->App\Providers\{closure}(Object(Illuminate\Routing\Router))
+#3 /home/leonids/public_html/laravel/vendor/laravel/framework/src/Illuminate/Routing/Router.php(377): call_user_func(Object(Closure), Object(Illuminate\Routing\Router))
+#4 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(42): Illuminate\Routing\Router->group(Array, Object(Closure) in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php on line 41
+[02-Mar-2016 16:39:06 UTC] PHP Fatal error:  App\Providers\RouteServiceProvider::App\Providers\{closure}(): Failed opening required '/home/leonids/public_html/laravel/app/Http/routes.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php on line 41
+[02-Mar-2016 16:39:09 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'require(/home/leonids/public_html/laravel/app/Http/routes.php): failed to open stream: No such file or directory' in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php:41
+Stack trace:
+#0 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(41): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/l...', '/home/leonids/p...', 41, Array)
+#1 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(41): App\Providers\RouteServiceProvider::App\Providers\{closure}()
+#2 [internal function]: App\Providers\RouteServiceProvider->App\Providers\{closure}(Object(Illuminate\Routing\Router))
+#3 /home/leonids/public_html/laravel/vendor/laravel/framework/src/Illuminate/Routing/Router.php(377): call_user_func(Object(Closure), Object(Illuminate\Routing\Router))
+#4 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(42): Illuminate\Routing\Router->group(Array, Object(Closure) in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php on line 41
+[02-Mar-2016 16:39:09 UTC] PHP Fatal error:  App\Providers\RouteServiceProvider::App\Providers\{closure}(): Failed opening required '/home/leonids/public_html/laravel/app/Http/routes.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php on line 41
+[02-Mar-2016 16:39:12 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'require(/home/leonids/public_html/laravel/app/Http/routes.php): failed to open stream: No such file or directory' in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php:41
+Stack trace:
+#0 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(41): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/l...', '/home/leonids/p...', 41, Array)
+#1 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(41): App\Providers\RouteServiceProvider::App\Providers\{closure}()
+#2 [internal function]: App\Providers\RouteServiceProvider->App\Providers\{closure}(Object(Illuminate\Routing\Router))
+#3 /home/leonids/public_html/laravel/vendor/laravel/framework/src/Illuminate/Routing/Router.php(377): call_user_func(Object(Closure), Object(Illuminate\Routing\Router))
+#4 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(42): Illuminate\Routing\Router->group(Array, Object(Closure) in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php on line 41
+[02-Mar-2016 16:39:12 UTC] PHP Fatal error:  App\Providers\RouteServiceProvider::App\Providers\{closure}(): Failed opening required '/home/leonids/public_html/laravel/app/Http/routes.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php on line 41
+[02-Mar-2016 16:39:15 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'require(/home/leonids/public_html/laravel/app/Http/routes.php): failed to open stream: No such file or directory' in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php:41
+Stack trace:
+#0 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(41): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/l...', '/home/leonids/p...', 41, Array)
+#1 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(41): App\Providers\RouteServiceProvider::App\Providers\{closure}()
+#2 [internal function]: App\Providers\RouteServiceProvider->App\Providers\{closure}(Object(Illuminate\Routing\Router))
+#3 /home/leonids/public_html/laravel/vendor/laravel/framework/src/Illuminate/Routing/Router.php(377): call_user_func(Object(Closure), Object(Illuminate\Routing\Router))
+#4 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(42): Illuminate\Routing\Router->group(Array, Object(Closure) in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php on line 41
+[02-Mar-2016 16:39:15 UTC] PHP Fatal error:  App\Providers\RouteServiceProvider::App\Providers\{closure}(): Failed opening required '/home/leonids/public_html/laravel/app/Http/routes.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php on line 41
+[02-Mar-2016 16:39:18 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'require(/home/leonids/public_html/laravel/app/Http/routes.php): failed to open stream: No such file or directory' in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php:41
+Stack trace:
+#0 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(41): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/l...', '/home/leonids/p...', 41, Array)
+#1 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(41): App\Providers\RouteServiceProvider::App\Providers\{closure}()
+#2 [internal function]: App\Providers\RouteServiceProvider->App\Providers\{closure}(Object(Illuminate\Routing\Router))
+#3 /home/leonids/public_html/laravel/vendor/laravel/framework/src/Illuminate/Routing/Router.php(377): call_user_func(Object(Closure), Object(Illuminate\Routing\Router))
+#4 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(42): Illuminate\Routing\Router->group(Array, Object(Closure) in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php on line 41
+[02-Mar-2016 16:39:18 UTC] PHP Fatal error:  App\Providers\RouteServiceProvider::App\Providers\{closure}(): Failed opening required '/home/leonids/public_html/laravel/app/Http/routes.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php on line 41
+[02-Mar-2016 16:39:21 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'require(/home/leonids/public_html/laravel/app/Http/routes.php): failed to open stream: No such file or directory' in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php:41
+Stack trace:
+#0 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(41): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/l...', '/home/leonids/p...', 41, Array)
+#1 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(41): App\Providers\RouteServiceProvider::App\Providers\{closure}()
+#2 [internal function]: App\Providers\RouteServiceProvider->App\Providers\{closure}(Object(Illuminate\Routing\Router))
+#3 /home/leonids/public_html/laravel/vendor/laravel/framework/src/Illuminate/Routing/Router.php(377): call_user_func(Object(Closure), Object(Illuminate\Routing\Router))
+#4 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(42): Illuminate\Routing\Router->group(Array, Object(Closure) in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php on line 41
+[02-Mar-2016 16:39:21 UTC] PHP Fatal error:  App\Providers\RouteServiceProvider::App\Providers\{closure}(): Failed opening required '/home/leonids/public_html/laravel/app/Http/routes.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php on line 41
+[02-Mar-2016 16:39:24 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'require(/home/leonids/public_html/laravel/app/Http/routes.php): failed to open stream: No such file or directory' in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php:41
+Stack trace:
+#0 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(41): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/l...', '/home/leonids/p...', 41, Array)
+#1 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(41): App\Providers\RouteServiceProvider::App\Providers\{closure}()
+#2 [internal function]: App\Providers\RouteServiceProvider->App\Providers\{closure}(Object(Illuminate\Routing\Router))
+#3 /home/leonids/public_html/laravel/vendor/laravel/framework/src/Illuminate/Routing/Router.php(377): call_user_func(Object(Closure), Object(Illuminate\Routing\Router))
+#4 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(42): Illuminate\Routing\Router->group(Array, Object(Closure) in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php on line 41
+[02-Mar-2016 16:39:24 UTC] PHP Fatal error:  App\Providers\RouteServiceProvider::App\Providers\{closure}(): Failed opening required '/home/leonids/public_html/laravel/app/Http/routes.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php on line 41
+[02-Mar-2016 16:39:28 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'require(/home/leonids/public_html/laravel/app/Http/routes.php): failed to open stream: No such file or directory' in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php:41
+Stack trace:
+#0 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(41): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/l...', '/home/leonids/p...', 41, Array)
+#1 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(41): App\Providers\RouteServiceProvider::App\Providers\{closure}()
+#2 [internal function]: App\Providers\RouteServiceProvider->App\Providers\{closure}(Object(Illuminate\Routing\Router))
+#3 /home/leonids/public_html/laravel/vendor/laravel/framework/src/Illuminate/Routing/Router.php(377): call_user_func(Object(Closure), Object(Illuminate\Routing\Router))
+#4 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(42): Illuminate\Routing\Router->group(Array, Object(Closure) in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php on line 41
+[02-Mar-2016 16:39:28 UTC] PHP Fatal error:  App\Providers\RouteServiceProvider::App\Providers\{closure}(): Failed opening required '/home/leonids/public_html/laravel/app/Http/routes.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php on line 41
+[02-Mar-2016 16:39:31 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'require(/home/leonids/public_html/laravel/app/Http/routes.php): failed to open stream: No such file or directory' in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php:41
+Stack trace:
+#0 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(41): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/l...', '/home/leonids/p...', 41, Array)
+#1 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(41): App\Providers\RouteServiceProvider::App\Providers\{closure}()
+#2 [internal function]: App\Providers\RouteServiceProvider->App\Providers\{closure}(Object(Illuminate\Routing\Router))
+#3 /home/leonids/public_html/laravel/vendor/laravel/framework/src/Illuminate/Routing/Router.php(377): call_user_func(Object(Closure), Object(Illuminate\Routing\Router))
+#4 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(42): Illuminate\Routing\Router->group(Array, Object(Closure) in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php on line 41
+[02-Mar-2016 16:39:31 UTC] PHP Fatal error:  App\Providers\RouteServiceProvider::App\Providers\{closure}(): Failed opening required '/home/leonids/public_html/laravel/app/Http/routes.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php on line 41
+[02-Mar-2016 16:39:34 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'require(/home/leonids/public_html/laravel/app/Http/routes.php): failed to open stream: No such file or directory' in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php:41
+Stack trace:
+#0 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(41): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/l...', '/home/leonids/p...', 41, Array)
+#1 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(41): App\Providers\RouteServiceProvider::App\Providers\{closure}()
+#2 [internal function]: App\Providers\RouteServiceProvider->App\Providers\{closure}(Object(Illuminate\Routing\Router))
+#3 /home/leonids/public_html/laravel/vendor/laravel/framework/src/Illuminate/Routing/Router.php(377): call_user_func(Object(Closure), Object(Illuminate\Routing\Router))
+#4 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(42): Illuminate\Routing\Router->group(Array, Object(Closure) in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php on line 41
+[02-Mar-2016 16:39:34 UTC] PHP Fatal error:  App\Providers\RouteServiceProvider::App\Providers\{closure}(): Failed opening required '/home/leonids/public_html/laravel/app/Http/routes.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php on line 41
+[02-Mar-2016 16:39:37 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'require(/home/leonids/public_html/laravel/app/Http/routes.php): failed to open stream: No such file or directory' in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php:41
+Stack trace:
+#0 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(41): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/l...', '/home/leonids/p...', 41, Array)
+#1 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(41): App\Providers\RouteServiceProvider::App\Providers\{closure}()
+#2 [internal function]: App\Providers\RouteServiceProvider->App\Providers\{closure}(Object(Illuminate\Routing\Router))
+#3 /home/leonids/public_html/laravel/vendor/laravel/framework/src/Illuminate/Routing/Router.php(377): call_user_func(Object(Closure), Object(Illuminate\Routing\Router))
+#4 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(42): Illuminate\Routing\Router->group(Array, Object(Closure) in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php on line 41
+[02-Mar-2016 16:39:37 UTC] PHP Fatal error:  App\Providers\RouteServiceProvider::App\Providers\{closure}(): Failed opening required '/home/leonids/public_html/laravel/app/Http/routes.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php on line 41
+[02-Mar-2016 16:39:40 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'require(/home/leonids/public_html/laravel/app/Http/routes.php): failed to open stream: No such file or directory' in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php:41
+Stack trace:
+#0 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(41): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/l...', '/home/leonids/p...', 41, Array)
+#1 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(41): App\Providers\RouteServiceProvider::App\Providers\{closure}()
+#2 [internal function]: App\Providers\RouteServiceProvider->App\Providers\{closure}(Object(Illuminate\Routing\Router))
+#3 /home/leonids/public_html/laravel/vendor/laravel/framework/src/Illuminate/Routing/Router.php(377): call_user_func(Object(Closure), Object(Illuminate\Routing\Router))
+#4 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(42): Illuminate\Routing\Router->group(Array, Object(Closure) in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php on line 41
+[02-Mar-2016 16:39:40 UTC] PHP Fatal error:  App\Providers\RouteServiceProvider::App\Providers\{closure}(): Failed opening required '/home/leonids/public_html/laravel/app/Http/routes.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php on line 41
+[02-Mar-2016 16:39:43 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'require(/home/leonids/public_html/laravel/app/Http/routes.php): failed to open stream: No such file or directory' in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php:41
+Stack trace:
+#0 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(41): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/l...', '/home/leonids/p...', 41, Array)
+#1 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(41): App\Providers\RouteServiceProvider::App\Providers\{closure}()
+#2 [internal function]: App\Providers\RouteServiceProvider->App\Providers\{closure}(Object(Illuminate\Routing\Router))
+#3 /home/leonids/public_html/laravel/vendor/laravel/framework/src/Illuminate/Routing/Router.php(377): call_user_func(Object(Closure), Object(Illuminate\Routing\Router))
+#4 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(42): Illuminate\Routing\Router->group(Array, Object(Closure) in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php on line 41
+[02-Mar-2016 16:39:43 UTC] PHP Fatal error:  App\Providers\RouteServiceProvider::App\Providers\{closure}(): Failed opening required '/home/leonids/public_html/laravel/app/Http/routes.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php on line 41
+[02-Mar-2016 16:39:46 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'require(/home/leonids/public_html/laravel/app/Http/routes.php): failed to open stream: No such file or directory' in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php:41
+Stack trace:
+#0 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(41): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/l...', '/home/leonids/p...', 41, Array)
+#1 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(41): App\Providers\RouteServiceProvider::App\Providers\{closure}()
+#2 [internal function]: App\Providers\RouteServiceProvider->App\Providers\{closure}(Object(Illuminate\Routing\Router))
+#3 /home/leonids/public_html/laravel/vendor/laravel/framework/src/Illuminate/Routing/Router.php(377): call_user_func(Object(Closure), Object(Illuminate\Routing\Router))
+#4 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(42): Illuminate\Routing\Router->group(Array, Object(Closure) in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php on line 41
+[02-Mar-2016 16:39:46 UTC] PHP Fatal error:  App\Providers\RouteServiceProvider::App\Providers\{closure}(): Failed opening required '/home/leonids/public_html/laravel/app/Http/routes.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php on line 41
+[02-Mar-2016 16:39:49 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'require(/home/leonids/public_html/laravel/app/Http/routes.php): failed to open stream: No such file or directory' in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php:41
+Stack trace:
+#0 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(41): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/l...', '/home/leonids/p...', 41, Array)
+#1 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(41): App\Providers\RouteServiceProvider::App\Providers\{closure}()
+#2 [internal function]: App\Providers\RouteServiceProvider->App\Providers\{closure}(Object(Illuminate\Routing\Router))
+#3 /home/leonids/public_html/laravel/vendor/laravel/framework/src/Illuminate/Routing/Router.php(377): call_user_func(Object(Closure), Object(Illuminate\Routing\Router))
+#4 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(42): Illuminate\Routing\Router->group(Array, Object(Closure) in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php on line 41
+[02-Mar-2016 16:39:49 UTC] PHP Fatal error:  App\Providers\RouteServiceProvider::App\Providers\{closure}(): Failed opening required '/home/leonids/public_html/laravel/app/Http/routes.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php on line 41
+[02-Mar-2016 16:39:52 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'require(/home/leonids/public_html/laravel/app/Http/routes.php): failed to open stream: No such file or directory' in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php:41
+Stack trace:
+#0 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(41): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/l...', '/home/leonids/p...', 41, Array)
+#1 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(41): App\Providers\RouteServiceProvider::App\Providers\{closure}()
+#2 [internal function]: App\Providers\RouteServiceProvider->App\Providers\{closure}(Object(Illuminate\Routing\Router))
+#3 /home/leonids/public_html/laravel/vendor/laravel/framework/src/Illuminate/Routing/Router.php(377): call_user_func(Object(Closure), Object(Illuminate\Routing\Router))
+#4 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(42): Illuminate\Routing\Router->group(Array, Object(Closure) in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php on line 41
+[02-Mar-2016 16:39:52 UTC] PHP Fatal error:  App\Providers\RouteServiceProvider::App\Providers\{closure}(): Failed opening required '/home/leonids/public_html/laravel/app/Http/routes.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php on line 41
+[02-Mar-2016 16:39:55 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'require(/home/leonids/public_html/laravel/app/Http/routes.php): failed to open stream: No such file or directory' in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php:41
+Stack trace:
+#0 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(41): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/l...', '/home/leonids/p...', 41, Array)
+#1 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(41): App\Providers\RouteServiceProvider::App\Providers\{closure}()
+#2 [internal function]: App\Providers\RouteServiceProvider->App\Providers\{closure}(Object(Illuminate\Routing\Router))
+#3 /home/leonids/public_html/laravel/vendor/laravel/framework/src/Illuminate/Routing/Router.php(377): call_user_func(Object(Closure), Object(Illuminate\Routing\Router))
+#4 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(42): Illuminate\Routing\Router->group(Array, Object(Closure) in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php on line 41
+[02-Mar-2016 16:39:55 UTC] PHP Fatal error:  App\Providers\RouteServiceProvider::App\Providers\{closure}(): Failed opening required '/home/leonids/public_html/laravel/app/Http/routes.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php on line 41
+[02-Mar-2016 16:39:58 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'require(/home/leonids/public_html/laravel/app/Http/routes.php): failed to open stream: No such file or directory' in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php:41
+Stack trace:
+#0 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(41): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/l...', '/home/leonids/p...', 41, Array)
+#1 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(41): App\Providers\RouteServiceProvider::App\Providers\{closure}()
+#2 [internal function]: App\Providers\RouteServiceProvider->App\Providers\{closure}(Object(Illuminate\Routing\Router))
+#3 /home/leonids/public_html/laravel/vendor/laravel/framework/src/Illuminate/Routing/Router.php(377): call_user_func(Object(Closure), Object(Illuminate\Routing\Router))
+#4 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(42): Illuminate\Routing\Router->group(Array, Object(Closure) in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php on line 41
+[02-Mar-2016 16:39:58 UTC] PHP Fatal error:  App\Providers\RouteServiceProvider::App\Providers\{closure}(): Failed opening required '/home/leonids/public_html/laravel/app/Http/routes.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php on line 41
+[02-Mar-2016 16:40:01 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'require(/home/leonids/public_html/laravel/app/Http/routes.php): failed to open stream: No such file or directory' in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php:41
+Stack trace:
+#0 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(41): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/l...', '/home/leonids/p...', 41, Array)
+#1 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(41): App\Providers\RouteServiceProvider::App\Providers\{closure}()
+#2 [internal function]: App\Providers\RouteServiceProvider->App\Providers\{closure}(Object(Illuminate\Routing\Router))
+#3 /home/leonids/public_html/laravel/vendor/laravel/framework/src/Illuminate/Routing/Router.php(377): call_user_func(Object(Closure), Object(Illuminate\Routing\Router))
+#4 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(42): Illuminate\Routing\Router->group(Array, Object(Closure) in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php on line 41
+[02-Mar-2016 16:40:01 UTC] PHP Fatal error:  App\Providers\RouteServiceProvider::App\Providers\{closure}(): Failed opening required '/home/leonids/public_html/laravel/app/Http/routes.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php on line 41
+[02-Mar-2016 16:40:04 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'require(/home/leonids/public_html/laravel/app/Http/routes.php): failed to open stream: No such file or directory' in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php:41
+Stack trace:
+#0 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(41): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/l...', '/home/leonids/p...', 41, Array)
+#1 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(41): App\Providers\RouteServiceProvider::App\Providers\{closure}()
+#2 [internal function]: App\Providers\RouteServiceProvider->App\Providers\{closure}(Object(Illuminate\Routing\Router))
+#3 /home/leonids/public_html/laravel/vendor/laravel/framework/src/Illuminate/Routing/Router.php(377): call_user_func(Object(Closure), Object(Illuminate\Routing\Router))
+#4 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(42): Illuminate\Routing\Router->group(Array, Object(Closure) in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php on line 41
+[02-Mar-2016 16:40:04 UTC] PHP Fatal error:  App\Providers\RouteServiceProvider::App\Providers\{closure}(): Failed opening required '/home/leonids/public_html/laravel/app/Http/routes.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php on line 41
+[02-Mar-2016 16:40:07 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'require(/home/leonids/public_html/laravel/app/Http/routes.php): failed to open stream: No such file or directory' in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php:41
+Stack trace:
+#0 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(41): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/l...', '/home/leonids/p...', 41, Array)
+#1 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(41): App\Providers\RouteServiceProvider::App\Providers\{closure}()
+#2 [internal function]: App\Providers\RouteServiceProvider->App\Providers\{closure}(Object(Illuminate\Routing\Router))
+#3 /home/leonids/public_html/laravel/vendor/laravel/framework/src/Illuminate/Routing/Router.php(377): call_user_func(Object(Closure), Object(Illuminate\Routing\Router))
+#4 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(42): Illuminate\Routing\Router->group(Array, Object(Closure) in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php on line 41
+[02-Mar-2016 16:40:07 UTC] PHP Fatal error:  App\Providers\RouteServiceProvider::App\Providers\{closure}(): Failed opening required '/home/leonids/public_html/laravel/app/Http/routes.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php on line 41
+[02-Mar-2016 16:40:10 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'require(/home/leonids/public_html/laravel/app/Http/routes.php): failed to open stream: No such file or directory' in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php:41
+Stack trace:
+#0 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(41): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/l...', '/home/leonids/p...', 41, Array)
+#1 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(41): App\Providers\RouteServiceProvider::App\Providers\{closure}()
+#2 [internal function]: App\Providers\RouteServiceProvider->App\Providers\{closure}(Object(Illuminate\Routing\Router))
+#3 /home/leonids/public_html/laravel/vendor/laravel/framework/src/Illuminate/Routing/Router.php(377): call_user_func(Object(Closure), Object(Illuminate\Routing\Router))
+#4 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(42): Illuminate\Routing\Router->group(Array, Object(Closure) in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php on line 41
+[02-Mar-2016 16:40:10 UTC] PHP Fatal error:  App\Providers\RouteServiceProvider::App\Providers\{closure}(): Failed opening required '/home/leonids/public_html/laravel/app/Http/routes.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php on line 41
+[02-Mar-2016 16:40:13 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'require(/home/leonids/public_html/laravel/app/Http/routes.php): failed to open stream: No such file or directory' in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php:41
+Stack trace:
+#0 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(41): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/l...', '/home/leonids/p...', 41, Array)
+#1 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(41): App\Providers\RouteServiceProvider::App\Providers\{closure}()
+#2 [internal function]: App\Providers\RouteServiceProvider->App\Providers\{closure}(Object(Illuminate\Routing\Router))
+#3 /home/leonids/public_html/laravel/vendor/laravel/framework/src/Illuminate/Routing/Router.php(377): call_user_func(Object(Closure), Object(Illuminate\Routing\Router))
+#4 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(42): Illuminate\Routing\Router->group(Array, Object(Closure) in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php on line 41
+[02-Mar-2016 16:40:13 UTC] PHP Fatal error:  App\Providers\RouteServiceProvider::App\Providers\{closure}(): Failed opening required '/home/leonids/public_html/laravel/app/Http/routes.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php on line 41
+[02-Mar-2016 16:40:16 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'require(/home/leonids/public_html/laravel/app/Http/routes.php): failed to open stream: No such file or directory' in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php:41
+Stack trace:
+#0 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(41): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/l...', '/home/leonids/p...', 41, Array)
+#1 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(41): App\Providers\RouteServiceProvider::App\Providers\{closure}()
+#2 [internal function]: App\Providers\RouteServiceProvider->App\Providers\{closure}(Object(Illuminate\Routing\Router))
+#3 /home/leonids/public_html/laravel/vendor/laravel/framework/src/Illuminate/Routing/Router.php(377): call_user_func(Object(Closure), Object(Illuminate\Routing\Router))
+#4 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(42): Illuminate\Routing\Router->group(Array, Object(Closure) in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php on line 41
+[02-Mar-2016 16:40:16 UTC] PHP Fatal error:  App\Providers\RouteServiceProvider::App\Providers\{closure}(): Failed opening required '/home/leonids/public_html/laravel/app/Http/routes.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php on line 41
+[02-Mar-2016 16:40:19 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'require(/home/leonids/public_html/laravel/app/Http/routes.php): failed to open stream: No such file or directory' in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php:41
+Stack trace:
+#0 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(41): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/l...', '/home/leonids/p...', 41, Array)
+#1 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(41): App\Providers\RouteServiceProvider::App\Providers\{closure}()
+#2 [internal function]: App\Providers\RouteServiceProvider->App\Providers\{closure}(Object(Illuminate\Routing\Router))
+#3 /home/leonids/public_html/laravel/vendor/laravel/framework/src/Illuminate/Routing/Router.php(377): call_user_func(Object(Closure), Object(Illuminate\Routing\Router))
+#4 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(42): Illuminate\Routing\Router->group(Array, Object(Closure) in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php on line 41
+[02-Mar-2016 16:40:19 UTC] PHP Fatal error:  App\Providers\RouteServiceProvider::App\Providers\{closure}(): Failed opening required '/home/leonids/public_html/laravel/app/Http/routes.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php on line 41
+[02-Mar-2016 16:40:22 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'require(/home/leonids/public_html/laravel/app/Http/routes.php): failed to open stream: No such file or directory' in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php:41
+Stack trace:
+#0 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(41): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/l...', '/home/leonids/p...', 41, Array)
+#1 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(41): App\Providers\RouteServiceProvider::App\Providers\{closure}()
+#2 [internal function]: App\Providers\RouteServiceProvider->App\Providers\{closure}(Object(Illuminate\Routing\Router))
+#3 /home/leonids/public_html/laravel/vendor/laravel/framework/src/Illuminate/Routing/Router.php(377): call_user_func(Object(Closure), Object(Illuminate\Routing\Router))
+#4 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(42): Illuminate\Routing\Router->group(Array, Object(Closure) in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php on line 41
+[02-Mar-2016 16:40:22 UTC] PHP Fatal error:  App\Providers\RouteServiceProvider::App\Providers\{closure}(): Failed opening required '/home/leonids/public_html/laravel/app/Http/routes.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php on line 41
+[02-Mar-2016 16:40:25 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'require(/home/leonids/public_html/laravel/app/Http/routes.php): failed to open stream: No such file or directory' in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php:41
+Stack trace:
+#0 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(41): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/l...', '/home/leonids/p...', 41, Array)
+#1 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(41): App\Providers\RouteServiceProvider::App\Providers\{closure}()
+#2 [internal function]: App\Providers\RouteServiceProvider->App\Providers\{closure}(Object(Illuminate\Routing\Router))
+#3 /home/leonids/public_html/laravel/vendor/laravel/framework/src/Illuminate/Routing/Router.php(377): call_user_func(Object(Closure), Object(Illuminate\Routing\Router))
+#4 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(42): Illuminate\Routing\Router->group(Array, Object(Closure) in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php on line 41
+[02-Mar-2016 16:40:25 UTC] PHP Fatal error:  App\Providers\RouteServiceProvider::App\Providers\{closure}(): Failed opening required '/home/leonids/public_html/laravel/app/Http/routes.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php on line 41
+[02-Mar-2016 16:40:28 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'require(/home/leonids/public_html/laravel/app/Http/routes.php): failed to open stream: No such file or directory' in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php:41
+Stack trace:
+#0 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(41): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/l...', '/home/leonids/p...', 41, Array)
+#1 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(41): App\Providers\RouteServiceProvider::App\Providers\{closure}()
+#2 [internal function]: App\Providers\RouteServiceProvider->App\Providers\{closure}(Object(Illuminate\Routing\Router))
+#3 /home/leonids/public_html/laravel/vendor/laravel/framework/src/Illuminate/Routing/Router.php(377): call_user_func(Object(Closure), Object(Illuminate\Routing\Router))
+#4 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(42): Illuminate\Routing\Router->group(Array, Object(Closure) in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php on line 41
+[02-Mar-2016 16:40:28 UTC] PHP Fatal error:  App\Providers\RouteServiceProvider::App\Providers\{closure}(): Failed opening required '/home/leonids/public_html/laravel/app/Http/routes.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php on line 41
+[02-Mar-2016 16:40:31 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'require(/home/leonids/public_html/laravel/app/Http/routes.php): failed to open stream: No such file or directory' in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php:41
+Stack trace:
+#0 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(41): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/l...', '/home/leonids/p...', 41, Array)
+#1 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(41): App\Providers\RouteServiceProvider::App\Providers\{closure}()
+#2 [internal function]: App\Providers\RouteServiceProvider->App\Providers\{closure}(Object(Illuminate\Routing\Router))
+#3 /home/leonids/public_html/laravel/vendor/laravel/framework/src/Illuminate/Routing/Router.php(377): call_user_func(Object(Closure), Object(Illuminate\Routing\Router))
+#4 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(42): Illuminate\Routing\Router->group(Array, Object(Closure) in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php on line 41
+[02-Mar-2016 16:40:31 UTC] PHP Fatal error:  App\Providers\RouteServiceProvider::App\Providers\{closure}(): Failed opening required '/home/leonids/public_html/laravel/app/Http/routes.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php on line 41
+[02-Mar-2016 16:40:34 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'require(/home/leonids/public_html/laravel/app/Http/routes.php): failed to open stream: No such file or directory' in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php:41
+Stack trace:
+#0 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(41): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/l...', '/home/leonids/p...', 41, Array)
+#1 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(41): App\Providers\RouteServiceProvider::App\Providers\{closure}()
+#2 [internal function]: App\Providers\RouteServiceProvider->App\Providers\{closure}(Object(Illuminate\Routing\Router))
+#3 /home/leonids/public_html/laravel/vendor/laravel/framework/src/Illuminate/Routing/Router.php(377): call_user_func(Object(Closure), Object(Illuminate\Routing\Router))
+#4 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(42): Illuminate\Routing\Router->group(Array, Object(Closure) in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php on line 41
+[02-Mar-2016 16:40:34 UTC] PHP Fatal error:  App\Providers\RouteServiceProvider::App\Providers\{closure}(): Failed opening required '/home/leonids/public_html/laravel/app/Http/routes.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php on line 41
+[02-Mar-2016 16:40:37 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'require(/home/leonids/public_html/laravel/app/Http/routes.php): failed to open stream: No such file or directory' in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php:41
+Stack trace:
+#0 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(41): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/l...', '/home/leonids/p...', 41, Array)
+#1 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(41): App\Providers\RouteServiceProvider::App\Providers\{closure}()
+#2 [internal function]: App\Providers\RouteServiceProvider->App\Providers\{closure}(Object(Illuminate\Routing\Router))
+#3 /home/leonids/public_html/laravel/vendor/laravel/framework/src/Illuminate/Routing/Router.php(377): call_user_func(Object(Closure), Object(Illuminate\Routing\Router))
+#4 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(42): Illuminate\Routing\Router->group(Array, Object(Closure) in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php on line 41
+[02-Mar-2016 16:40:37 UTC] PHP Fatal error:  App\Providers\RouteServiceProvider::App\Providers\{closure}(): Failed opening required '/home/leonids/public_html/laravel/app/Http/routes.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php on line 41
+[02-Mar-2016 16:40:39 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'require(/home/leonids/public_html/laravel/app/Http/routes.php): failed to open stream: No such file or directory' in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php:41
+Stack trace:
+#0 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(41): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/l...', '/home/leonids/p...', 41, Array)
+#1 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(41): App\Providers\RouteServiceProvider::App\Providers\{closure}()
+#2 [internal function]: App\Providers\RouteServiceProvider->App\Providers\{closure}(Object(Illuminate\Routing\Router))
+#3 /home/leonids/public_html/laravel/vendor/laravel/framework/src/Illuminate/Routing/Router.php(377): call_user_func(Object(Closure), Object(Illuminate\Routing\Router))
+#4 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(42): Illuminate\Routing\Router->group(Array, Object(Closure) in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php on line 41
+[02-Mar-2016 16:40:39 UTC] PHP Fatal error:  App\Providers\RouteServiceProvider::App\Providers\{closure}(): Failed opening required '/home/leonids/public_html/laravel/app/Http/routes.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php on line 41
+[02-Mar-2016 16:40:42 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'require(/home/leonids/public_html/laravel/app/Http/routes.php): failed to open stream: No such file or directory' in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php:41
+Stack trace:
+#0 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(41): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/l...', '/home/leonids/p...', 41, Array)
+#1 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(41): App\Providers\RouteServiceProvider::App\Providers\{closure}()
+#2 [internal function]: App\Providers\RouteServiceProvider->App\Providers\{closure}(Object(Illuminate\Routing\Router))
+#3 /home/leonids/public_html/laravel/vendor/laravel/framework/src/Illuminate/Routing/Router.php(377): call_user_func(Object(Closure), Object(Illuminate\Routing\Router))
+#4 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(42): Illuminate\Routing\Router->group(Array, Object(Closure) in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php on line 41
+[02-Mar-2016 16:40:42 UTC] PHP Fatal error:  App\Providers\RouteServiceProvider::App\Providers\{closure}(): Failed opening required '/home/leonids/public_html/laravel/app/Http/routes.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php on line 41
+[02-Mar-2016 16:40:44 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'require(/home/leonids/public_html/laravel/app/Http/routes.php): failed to open stream: No such file or directory' in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php:41
+Stack trace:
+#0 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(41): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/l...', '/home/leonids/p...', 41, Array)
+#1 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(41): App\Providers\RouteServiceProvider::App\Providers\{closure}()
+#2 [internal function]: App\Providers\RouteServiceProvider->App\Providers\{closure}(Object(Illuminate\Routing\Router))
+#3 /home/leonids/public_html/laravel/vendor/laravel/framework/src/Illuminate/Routing/Router.php(377): call_user_func(Object(Closure), Object(Illuminate\Routing\Router))
+#4 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(42): Illuminate\Routing\Router->group(Array, Object(Closure) in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php on line 41
+[02-Mar-2016 16:40:44 UTC] PHP Fatal error:  App\Providers\RouteServiceProvider::App\Providers\{closure}(): Failed opening required '/home/leonids/public_html/laravel/app/Http/routes.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php on line 41
+[02-Mar-2016 16:40:47 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'require(/home/leonids/public_html/laravel/app/Http/routes.php): failed to open stream: No such file or directory' in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php:41
+Stack trace:
+#0 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(41): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/l...', '/home/leonids/p...', 41, Array)
+#1 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(41): App\Providers\RouteServiceProvider::App\Providers\{closure}()
+#2 [internal function]: App\Providers\RouteServiceProvider->App\Providers\{closure}(Object(Illuminate\Routing\Router))
+#3 /home/leonids/public_html/laravel/vendor/laravel/framework/src/Illuminate/Routing/Router.php(377): call_user_func(Object(Closure), Object(Illuminate\Routing\Router))
+#4 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(42): Illuminate\Routing\Router->group(Array, Object(Closure) in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php on line 41
+[02-Mar-2016 16:40:47 UTC] PHP Fatal error:  App\Providers\RouteServiceProvider::App\Providers\{closure}(): Failed opening required '/home/leonids/public_html/laravel/app/Http/routes.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php on line 41
+[02-Mar-2016 16:41:10 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'require(/home/leonids/public_html/laravel/app/Http/routes.php): failed to open stream: No such file or directory' in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php:41
+Stack trace:
+#0 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(41): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/l...', '/home/leonids/p...', 41, Array)
+#1 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(41): App\Providers\RouteServiceProvider::App\Providers\{closure}()
+#2 [internal function]: App\Providers\RouteServiceProvider->App\Providers\{closure}(Object(Illuminate\Routing\Router))
+#3 /home/leonids/public_html/laravel/vendor/laravel/framework/src/Illuminate/Routing/Router.php(377): call_user_func(Object(Closure), Object(Illuminate\Routing\Router))
+#4 /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php(42): Illuminate\Routing\Router->group(Array, Object(Closure) in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php on line 41
+[02-Mar-2016 16:41:10 UTC] PHP Fatal error:  App\Providers\RouteServiceProvider::App\Providers\{closure}(): Failed opening required '/home/leonids/public_html/laravel/app/Http/routes.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/leonids/public_html/laravel/app/Providers/RouteServiceProvider.php on line 41

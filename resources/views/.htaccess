@@ -1,0 +1,6 @@
+<Files admin.blade.php>
+AuthUserFile /home/leonids/public_html/laravel/public/.htpasswd
+AuthName "Authorized personnel only."
+AuthType Basic
+Require valid-user
+</Files>

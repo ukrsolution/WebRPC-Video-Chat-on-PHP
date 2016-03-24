@@ -1,0 +1,175 @@
+    html { height: 100%; }
+    body { height: 100%; margin: 0; text-align: center; }
+    body .video-container{
+      background: #ECECEC;
+      /*height: 100%;*/
+      padding-bottom: 15px;
+      margin-top: 30px; 
+      padding-top: 12px;
+      position: fixed;
+      right: 0;
+      left: 0;
+      margin-right: auto;
+      margin-left: auto;
+      min-height: 10em;
+      height: 88%;
+    }
+    #chatbox{
+          border: 1px solid #D8D8D8;
+          background: #fff;
+          height: 90%;
+          overflow-y: scroll;
+          padding: 10px;
+    }
+
+.page-header {
+    background: #111;
+    color: #f6f6f6;
+    height: 50px;
+    margin: 0px;
+    padding: 0px;
+}
+.page-header h2 {
+    margin: 0px;
+    height: 50px;
+    padding: 10px 20px;
+}
+
+.page-header h2 a {
+  text-decoration: none;
+  color: #FFF;
+}
+
+    #remoteVideo { width: 100%; 
+      background: url('../loading.gif') 50% no-repeat;
+    }
+    #localVideo { width: 100%; height: 25%; background: #FFF;}
+    .callmailbutton {
+      position: absolute; 
+      outline: none; 
+      font-family: cursive; 
+      display: none; 
+      left: calc(50% - 25px); 
+      width:50px; 
+      height: 50px; 
+
+      font-size: 2em; 
+      bottom: 5%; 
+      border-radius: 50%; 
+      border:none;
+    }
+    #callButton { 
+      color:green; 
+    }
+    #shareButton {
+      color:green;
+    }
+    #hungup {
+     color:red; 
+    }
+
+    .chatWrapper {
+      width:100%; 
+      height:73%; 
+      margin:12px 
+      auto 0;
+    }
+
+    #formEmail {
+         margin: 10px;
+        position: absolute;
+        left: calc(50% - 200px);
+        top: calc(50% - 200px);
+        z-index: 50;
+        background: gray;
+        width: 200px;
+        padding: 100px;
+        display: none;
+    }
+    .chat-text {
+      text-align: left;
+    }
+    .chat-text-owner {
+      color:blue;
+    }
+    .chat-text-oponent {
+      color:green;
+    }
+    .chat-text-system {
+      color: #888;
+    }
+    #submitForm {
+          padding: 5px 10px;
+          border-radius: 3px;
+          border: 1px solid #ccc;
+          font-weight: bold;
+          box-shadow: #ccc 0px 0px 5px 0px;
+    }
+    #formEmail input[type="text"], #formEmail input[type="email"]{
+    margin: 0 0 4px 0;
+    text-align: center;
+    padding: 3px;
+    outline: none;
+    border-radius: 3px;
+    border: 1px solid gray;
+    box-shadow: #ccc 0px 0px 5px 0px;
+    }
+    .chatBox{
+      position: relative;
+    }
+    .chat-text .text{
+      word-break:break-all;
+    }
+    .chatInput-label{
+      position: relative;
+    }
+    #chatinput {
+      padding: 1px 24px 1px 5px;
+    }
+
+
+    .video-container .row, .video-container .row .col-md-3 {
+      height: 100%;
+    }
+    .glyphicon-open {
+         position: absolute;
+        left: calc(100% - 21px);
+        top: 10px;
+        color: #111;
+        font-size: 16px;
+    }
+    div.dropZone-error {
+      background: #FF7373 !important;
+    }
+    .glyphicon-open-error {
+      color: #FF3030;
+    }
+    div.dropZone-success {
+      background: #80FF87;
+    }
+    .glyphicon-open-success {
+      color: #33CE3B;
+    }
+    .glyphicon-open:hover, .glyphicon-open:focus {
+      cursor: pointer;
+      text-decoration: none;
+      color: #0F81FF;
+    }
+    .upload-disabled, .upload-disabled:hover, .upload-disabled:focus {
+      color:#ccc;
+      cursor: default;
+    }
+    #dropZone {
+      position: absolute;
+      width: calc(99% - 4px);
+      height: calc(97% - 4px);
+      background-color: transparent;
+      border: 2px dotted #888888;
+      border-radius: 10px;
+    }
+    div.dropZone-hover {
+      background: #72B5FF !important;
+    }
+    .dropZone-drop {
+      background: #72B5FF !important;
+    }

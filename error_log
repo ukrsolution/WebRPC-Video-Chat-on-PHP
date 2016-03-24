@@ -1,0 +1,6 @@
+[26-Jan-2016 00:21:13 UTC] PHP Fatal error:  Class 'CreateRoomsTable' not found in /home/leonids/public_html/laravel/vendor/laravel/framework/src/Illuminate/Database/Migrations/Migrator.php on line 336
+[26-Jan-2016 00:22:25 UTC] PHP Fatal error:  Class 'CreateRoomsTable' not found in /home/leonids/public_html/laravel/vendor/laravel/framework/src/Illuminate/Database/Migrations/Migrator.php on line 336
+[26-Jan-2016 00:23:03 UTC] PHP Fatal error:  Class 'CreateRoomsTable' not found in /home/leonids/public_html/laravel/vendor/laravel/framework/src/Illuminate/Database/Migrations/Migrator.php on line 336
+[26-Jan-2016 00:23:22 UTC] PHP Fatal error:  Class 'CreateRoomsTable' not found in /home/leonids/public_html/laravel/vendor/laravel/framework/src/Illuminate/Database/Migrations/Migrator.php on line 336
+[02-Mar-2016 14:56:49 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/leonids/public_html/laravel/storage/framework/views/991b6ec9a7476bb700bea439c88674a9e4e415ed.php on line 35
+[02-Mar-2016 14:57:15 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/leonids/public_html/laravel/storage/framework/views/991b6ec9a7476bb700bea439c88674a9e4e415ed.php on line 194
